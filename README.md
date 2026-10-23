@@ -1,135 +1,125 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:10162F,55:573DA4,100:C7746C&text=Hello%20World,%20I'm%20Anna%20%F0%9F%91%BE&fontColor=FFFFFF&fontSize=38&fontAlignY=39&desc=UX%2FUI%20DESIGN%20%C3%97%20WEB%20DEVELOPMENT&descAlignY=61&descSize=16&animation=fadeIn" alt="Hello World, I'm Anna - UX/UI Design and Web Development" width="100%" />
+<img src="assets/hero.svg" width="100%" alt="Anna Rivalta - UX/UI Designer and Web Developer. From complexity to clear digital experiences." />
 
-**From complexity to clear digital experiences.**
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3200&pause=1100&color=A78BFA&center=true&vCenter=true&width=650&height=45&lines=Understand.+Design.+Build.+Improve.;Human-centered+design%2C+developer-minded.;Making+digital+experiences+make+sense." alt="Animated introduction: Understand, Design, Build, Improve" />
+[![LinkedIn](https://img.shields.io/badge/LET'S_CONNECT-LinkedIn-8B7AE8?style=for-the-badge&labelColor=15172F&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna-rivalta/)
+[![Email](https://img.shields.io/badge/SAY_HELLO-Email-D48E77?style=for-the-badge&labelColor=15172F&logo=gmail&logoColor=white)](mailto:anna.rivalta@dma.it)
 
-[![LinkedIn](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna-rivalta/)
-[![Email](https://img.shields.io/badge/GET_IN_TOUCH-252A3A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anna.rivalta@dma.it)
+<sub>📍 Forlì, Italy · Digital experiences, from idea to implementation</sub>
 
 </div>
 
----
+<br>
 
-### `> whoami`
+### `01 / about_me`
 
-Hi, I'm **Anna** - a **UX/UI Designer & Web Developer** based in Italy, working at the intersection of **design, technology and digital communication**.
+I’m **Anna**, a **UX/UI designer and web developer** who loves the space between thoughtful design and practical implementation.
 
-I turn complex needs into clear, useful digital experiences: from understanding people and organizing information to designing interfaces, building websites, connecting tools and improving what happens after launch.
+I work across **UX/UI, websites, content and digital communication**. I enjoy taking something complex, finding the thread that makes it understandable, and shaping an experience that’s clear, useful and enjoyable to use.
 
-My background combines **B2B digital projects, web design, HubSpot, WordPress, digital marketing and UX analysis**. I care just as much about *why* something works as *how* it's built.
+For me, good design doesn't stop at the mockup. **It has to work in the real world**: in the browser, in the content, in the details and in the changes we make after launch.
 
-```text
+```js
 const anna = {
-  focus:     ["UX/UI", "Web Development", "Digital Experiences"],
-  approach:  ["Understand", "Design", "Build", "Improve"],
-  mindset:   "Curious, practical, human-centered",
-  sideQuests:["Anime", "Board Games", "Creative Experiments"]
+  approach: ["understand", "design", "build", "improve"],
+  intersection: "human needs × visual design × technology",
+  currently: "building stronger digital experiences",
+  sideQuests: ["anime", "board games", "creative experiments"]
 };
 ```
 
-### `> my_process`
+### `02 / how_i_think`
 
-<div align="center">
+> **UNDERSTAND → DESIGN ↔ BUILD ↔ IMPROVE**
+>
+> Understand the problem. Design for people. Build with intention. Improve through feedback.
 
-**01 · UNDERSTAND** &nbsp; → &nbsp; **02 · DESIGN** &nbsp; ↔ &nbsp; **03 · BUILD** &nbsp; ↔ &nbsp; **04 · IMPROVE**
+My process isn’t a one-way checklist: design, development and improvement continuously inform one another.
 
-*Research informs design. Development tests ideas. Real-world feedback makes everything better.*
-
-</div>
-
-### `> creative_stack`
+### `03 / the_toolkit`
 
 **Design & experience**
 
-![Figma](https://img.shields.io/badge/Figma-181B2B?style=flat-square&logo=figma&logoColor=F24E1E)
-![UX/UI](https://img.shields.io/badge/UX%2FUI-A78BFA?style=flat-square&logoColor=white)
-![Prototyping](https://img.shields.io/badge/Prototyping-181B2B?style=flat-square)
-![Information Architecture](https://img.shields.io/badge/Information_Architecture-181B2B?style=flat-square)
+![Figma](https://img.shields.io/badge/Figma-171A32?style=flat-square&logo=figma&logoColor=F24E1E)
+![UX/UI Design](https://img.shields.io/badge/UX%2FUI_Design-171A32?style=flat-square&labelColor=171A32)
+![Wireframing](https://img.shields.io/badge/Wireframing-171A32?style=flat-square)
+![Prototyping](https://img.shields.io/badge/Prototyping-171A32?style=flat-square)
+![Information Architecture](https://img.shields.io/badge/Information_Architecture-171A32?style=flat-square)
 
-**Build & content platforms**
+**Build & CMS**
 
-![HTML5](https://img.shields.io/badge/HTML5-181B2B?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-181B2B?style=flat-square&logo=css&logoColor=1572B6)
-![WordPress](https://img.shields.io/badge/WordPress-181B2B?style=flat-square&logo=wordpress&logoColor=21759B)
-![Elementor](https://img.shields.io/badge/Elementor-181B2B?style=flat-square&logo=elementor&logoColor=FF7BE5)
-![HubSpot](https://img.shields.io/badge/HubSpot_Content_Hub-181B2B?style=flat-square&logo=hubspot&logoColor=FF7A59)
+![HTML5](https://img.shields.io/badge/HTML5-171A32?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-171A32?style=flat-square&logo=css&logoColor=1572B6)
+![WordPress](https://img.shields.io/badge/WordPress-171A32?style=flat-square&logo=wordpress&logoColor=21759B)
+![Elementor](https://img.shields.io/badge/Elementor-171A32?style=flat-square&logo=elementor&logoColor=FF7BE5)
+![HubSpot](https://img.shields.io/badge/HubSpot-171A32?style=flat-square&logo=hubspot&logoColor=FF7A59)
 
-**Measurement, growth & workflow**
+**Optimize & communicate**
 
-![Microsoft Clarity](https://img.shields.io/badge/Microsoft_Clarity-181B2B?style=flat-square&logo=microsoft&logoColor=76B9ED)
-![Hotjar](https://img.shields.io/badge/Hotjar-181B2B?style=flat-square&logo=hotjar&logoColor=FD3A5C)
-![SEO](https://img.shields.io/badge/SEO-181B2B?style=flat-square)
-![GitHub](https://img.shields.io/badge/GitHub-181B2B?style=flat-square&logo=github&logoColor=white)
-![AI-Assisted Workflow](https://img.shields.io/badge/AI--Assisted_Workflow-181B2B?style=flat-square)
+![SEO](https://img.shields.io/badge/SEO-171A32?style=flat-square)
+![Content Strategy](https://img.shields.io/badge/Content_Strategy-171A32?style=flat-square)
+![Digital Communication](https://img.shields.io/badge/Digital_Communication-171A32?style=flat-square)
+![GitHub](https://img.shields.io/badge/GitHub-171A32?style=flat-square&logo=github&logoColor=white)
 
-### `> what_i_work_on`
+<sub>My toolkit spans design, implementation and content. The badges are tools and areas I work with, not proficiency rankings.</sub>
+
+### `04 / selected_work`
 
 <table>
-<tr><td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
-**🎨 Digital experience & UX**
+#### 🌱 Studio Il Soffio
 
-User flows, interface design, content structure, responsive experiences and ongoing usability improvements.
+**Website · WordPress · Elementor**
 
-</td><td width="50%" valign="top">
+Structuring a professional-services website around people, services and clear navigation, with attention to content and discoverability.
 
-**💻 Web design & implementation**
+<sub>Real project · detailed case study in preparation</sub>
 
-Websites and digital touchpoints built with WordPress, Elementor, HTML, CSS and practical design-to-build workflows.
+</td>
+<td width="50%" valign="top">
 
-</td></tr>
-<tr><td valign="top">
+#### 🧩 B2B digital experiences
 
-**🧡 HubSpot & connected systems**
+**Digital communication · UX · Web**
 
-Content Hub, websites, landing pages, email workflows and B2B digital ecosystems, including integration-focused projects.
+Working at the intersection of business goals, content and digital touchpoints: connecting what organizations need with experiences that make sense to users.
 
-</td><td valign="top">
+<sub>Professional experience · selected details not publicly documented</sub>
 
-**📈 Measure, learn, improve**
-
-Behavior analysis, UX insights, SEO, performance indicators and iterative optimization beyond launch.
-
-</td></tr>
+</td>
+</tr>
 </table>
 
-### `> selected_experience`
+> 🚧 **Portfolio under construction.** I’m preparing case studies that explain the problems, decisions, implementation and lessons learned - not just the final screens.
 
-Not everything I work on lives in a public repository. Here are some of the kinds of real-world projects behind my work:
-
-- **B2B websites & digital ecosystems** - combining user experience, content, HubSpot and connected business tools.
-- **E-commerce & UX improvement** - making complex interfaces and customer journeys clearer and easier to navigate.
-- **Studio Il Soffio** - WordPress/Elementor website work, including content structure, professional profiles and discoverability.
-
-*Detailed case studies and my portfolio are currently in progress.*
-
-### `> github_activity`
+### `05 / github_activity`
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=annarivalta&theme=tokyonight&hide_border=true&background=00000000&ring=A78BFA&fire=C7746C&currStreakLabel=A78BFA" alt="Anna's GitHub contribution streak" />
+[![GitHub contributions](https://streak-stats.demolab.com?user=annarivalta&theme=tokyonight&hide_border=true&background=00000000&ring=A78BFA&fire=D48E77&currStreakLabel=A78BFA)](https://github.com/annarivalta)
 
 </div>
 
-<sub>GitHub activity reflects public contributions, not the full scope of my design and client work.</sub>
+<sub>Most design work doesn't show up as GitHub commits. Code is one part of the picture, not the whole story.</sub>
+
+### `06 / side_quests`
+
+```text
+🎮  board games      → systems, strategy & playful thinking
+🌸  anime            → stories, worlds & a little obsession
+✨  creative making  → always experimenting with something new
+```
 
 ---
 
 <div align="center">
 
-### `> off_the_clock`
+**Designing with empathy. Building with curiosity.**
 
-**Anime lover · Board game geek · Curious maker** 🎮
-
-*Always exploring new worlds, new ideas and better ways to build things.*
-
-<br />
-
-**Thanks for visiting my little corner of GitHub.** 💜
-
-<sub>Designed with intention. Built with curiosity. Improved along the way.</sub>
+<sub>Thanks for visiting my little corner of the internet. 💜</sub>
 
 </div>
