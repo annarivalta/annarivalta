@@ -1,0 +1,39 @@
+# INSTALLAZIONE - GitHub di Anna Rivalta
+
+Repository di destinazione: https://github.com/annarivalta/annarivalta
+
+## 1. Carica i file
+
+Nella branch `main` sostituisci il README e carica la cartella `assets` e il file `.github/workflows/snake.yml`, conservando gli stessi percorsi.
+
+Attenzione: se esiste gia un workflow che genera la snake con un nome diverso, disattivalo o eliminalo per non avere due workflow che scrivono sul branch `output`.
+
+## 2. Abilita il workflow
+
+Vai a **Settings > Actions > General > Workflow permissions** e controlla che GitHub Actions possa scrivere sul repository (Read and write permissions), se la policy del repository lo permette.
+
+## 3. Avvia la prima generazione
+
+Vai a **Actions > Generate Snake Animation > Run workflow** sulla branch `main`. Apri i log e verifica il successo.
+
+Nel branch `output` dovrebbero apparire:
+- `github-snake.svg` (tema light)
+- `github-snake-dark.svg` (tema dark)
+
+Controlla i link:
+https://raw.githubusercontent.com/annarivalta/annarivalta/output/github-snake.svg
+https://raw.githubusercontent.com/annarivalta/annarivalta/output/github-snake-dark.svg
+
+Il README usa `<picture>` con switch automatico light/dark. Il fallback usa la versione light, così non punta più di default al file dark potenzialmente non generato.
+
+## 4. Avatar
+
+Carica `assets/avatar-github.png` come immagine profilo dalle impostazioni del tuo account. Il file viene dalla tua favicon SVG originale, non da un avatar generato.
+
+## 5. Asset grafici
+
+`hero.png` e `process.png` sono gli asset usati dal README. Le versioni SVG sono incluse per eventuali modifiche. La grafica usa font sostitutivi; non è stato incorporato Instrument Sans o Instrument Serif.
+
+## Nota
+
+I file del branch `output` NON sono presenti nello ZIP: vengono generati online da GitHub Actions dopo il primo avvio riuscito.
