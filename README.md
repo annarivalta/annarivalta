@@ -74,19 +74,19 @@ exit code: 0  # fun is a feature
 </details>
 
 <details>
-<summary><b>▸ View contribution snake</b></summary>
+  <summary>🐍 View contribution snake</summary>
 
-<br />
+  <br>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/annarivalta/annarivalta/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/annarivalta/annarivalta/output/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/annarivalta/annarivalta/output/github-snake-dark.svg" alt="Contribution graph snake animation, if the existing GitHub Action is enabled" width="100%" />
-  </picture>
-</p>
-
+  <div align="center">
+    <img
+      src="https://raw.githubusercontent.com/annarivalta/annarivalta/output/github-snake.svg"
+      alt="Anna's animated GitHub contribution snake"
+      width="100%"
+    />
+  </div>
 </details>
+
 
 ---
 
