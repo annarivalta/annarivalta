@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="./assets/hero.png" alt="Anna Rivalta - UX/UI Designer and Web Developer, dark IDE-inspired banner" width="100%" />
+<img src="./assets/hero.png" alt="Anna Rivalta - UX/UI Designer working across Web Design and Development. From complexity to clear digital experiences." width="100%" />
 
 <br>
 
 **Designing with empathy. Building with curiosity. Improving with purpose.**
 
-[**LINKEDIN ↗**](https://www.linkedin.com/in/anna-rivalta/) &nbsp; · &nbsp; [**SAY HELLO ↗**](mailto:anna.rivalta@gmail.com)
+[**PORTFOLIO ↗**](https://anna-rivalta-portfolio.lorileo12.chatgpt.site/) &nbsp; · &nbsp; [**LINKEDIN ↗**](https://www.linkedin.com/in/anna-rivalta/) &nbsp; · &nbsp; [**SAY HELLO ↗**](mailto:anna.rivalta@gmail.com)
 
-<sub>📍 Forlì-Cesena, Italy &nbsp; / &nbsp; UX/UI Design × Web Development × Digital Experience</sub>
+<sub>📍 Forlì-Cesena, Italy &nbsp; / &nbsp; UX/UI Design × Web Design & Development</sub>
 
 </div>
 
@@ -16,19 +16,19 @@
 
 ### `01 / $ whoami`
 
-Hey, I'm **Anna** 👋 I work at the intersection of **UX/UI design, web development and digital communication**.
+Hey, I'm **Anna** 👋 A **UX/UI Designer** working across **web design, digital communication and implementation**.
 
-I connect the messy first questions to digital experiences people can actually use: **understanding needs, structuring content, designing interfaces, building websites and refining what doesn't work yet**.
+I turn complex requirements into clear, usable digital experiences - connecting **information architecture, interface design, content and real-world website building**.
 
-I care about the little decisions that make a big difference: a clearer navigation, a simpler flow, a more useful page, a better experience.
+I care about what happens beyond the mockup: clearer navigation, thoughtful content, accessible interfaces and the little iterations that make an experience work better.
 
 ```typescript
 const anna = {
-  role: ['UX/UI Designer', 'Web Developer'],
-  location: 'Forlì-Cesena, Italy',
-  mindset: 'human-first, design-minded, developer-curious',
-  process: ['understand', 'design', 'build', 'improve'],
-  caresAbout: ['clarity', 'craft', 'accessibility', 'curiosity'],
+  focus: ['UX/UI design', 'web design', 'digital experiences'],
+  buildWith: ['HTML', 'CSS', 'WordPress', 'Elementor', 'HubSpot'],
+  approach: ['understand', 'design', 'build', 'improve'],
+  values: ['clarity', 'accessibility', 'craft', 'curiosity'],
+  exploring: ['human-AI interaction', 'agentic UX'],
   sideQuests: ['anime', 'board games', 'creative experiments'],
 } as const;
 ```
@@ -36,33 +36,43 @@ const anna = {
 ### `02 / $ thinking-in-loops`
 
 <div align="center">
-<img src="./assets/process.png" alt="Process diagram: Understand, then iterate through Design, Build and Improve." width="100%" />
+<img src="./assets/process.png" alt="Anna's iterative process: understand the problem, then cycle through design, build and improve." width="100%" />
 </div>
 
-> **Design isn't a one-way handoff.** The brief starts a conversation. Building tests assumptions. Feedback informs the next iteration.
+> **Design isn't a one-way handoff.** Understanding starts the process. Building tests assumptions. Feedback informs the next iteration.
 
 ### `03 / $ the-toolkit`
 
-| `DISCOVER & DESIGN` | `BUILD & SHIP` |
+| `DISCOVER & DESIGN` | `BUILD & IMPLEMENT` |
 | :-- | :-- |
-| **UX/UI** · Information architecture · Wireframes · Prototyping · Figma | **Web** · HTML · CSS · WordPress · Elementor · CMS |
-| **CONTENT & STRATEGY** · SEO · Digital communication · HubSpot | **OBSERVE & IMPROVE** · UX analysis · Microsoft Clarity · Hotjar · Iteration |
+| UX/UI · Information architecture · Wireframing · Prototyping · Figma | HTML · CSS · WordPress · Elementor · HubSpot Content Hub |
+| **`CONTENT & STRATEGY`** | **`OBSERVE & IMPROVE`** |
+| Content structure · SEO · Digital communication · CMS | UX analysis · Microsoft Clarity · Hotjar · Design QA · Iteration |
 
-<sub>Tools are part of the process, not the personality.</sub>
+<sub>Tools support the work. They aren't the whole story.</sub>
 
 ### `04 / $ selected-work`
 
 **🌿 Studio Il Soffio**  
-`Professional-services website` &nbsp; `WordPress` &nbsp; `Elementor` &nbsp; `Content structure`
+`Website` · `WordPress` · `Elementor` · `Content structure`
 
-Website work spanning information structure, navigation, site implementation and content refinement.
+Information structure, navigation, website implementation and content refinement for a professional-services website.
 
 **🧩 B2B digital experiences**  
-`UX/UI` &nbsp; `CMS` &nbsp; `HubSpot` &nbsp; `Web` &nbsp; `Digital communication`
+`UX/UI` · `HubSpot` · `CMS` · `Web` · `Digital communication`
 
-Professional experience connecting business requirements with content, digital journeys and usable implementation. Project details and code aren't always public.
+Connecting business needs with digital journeys, content, usability and implementation. Some professional work isn't publicly shareable.
 
-### `05 / $ play-mode`
+### `05 / $ currently-exploring`
+
+**Human-AI Interaction & Agentic UX**  
+I'm curious about how people understand, guide and maintain control over AI-assisted experiences - especially when software moves from *suggesting* to *taking action*.
+
+`Trust` · `Transparency` · `Human control` · `Accessible interaction`
+
+<sub>An area I'm learning about, not a claim of specialist professional experience.</sub>
+
+### `06 / $ play-mode`
 
 <details>
 <summary><b>▸ Run side_quests.sh</b></summary>
@@ -82,14 +92,18 @@ exit 0  # fun is a feature
 
 </details>
 
+### `07 / $ contribution-snake`
+
 <details>
-<summary><b>🐍 View contribution snake</b></summary>
+<summary><b>▸ View contribution snake 🐍</b></summary>
 
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/annarivalta/annarivalta/output/github-snake.svg" alt="Anna's animated GitHub contribution snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/annarivalta/annarivalta/output/github-snake.svg" alt="Animated snake travelling across Anna's GitHub contributions" width="100%" />
 </div>
+
+<sub>Generated by GitHub Actions. This README uses the existing light SVG to avoid a missing dark-mode file.</sub>
 
 </details>
 
