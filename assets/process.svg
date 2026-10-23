@@ -1,8 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-labelledby="t d"><title id="t">Anna's iterative design process</title><desc id="d">Understand leads into a collaborative cycle of Design, Build and Improve.</desc><rect width="1200" height="250" rx="18" fill="#121729"/><g font-family="Arial,Helvetica,sans-serif"><text x="39" y="42" fill="#a8a7c6" font-size="17">PROCESS / NOT A STRAIGHT LINE</text>
-<rect x="38" y="85" width="220" height="85" rx="16" fill="#232743" stroke="#8b8aaf"/><text x="148" y="121" font-size="21" font-weight="bold" text-anchor="middle" fill="#fff">01 / UNDERSTAND</text><text x="148" y="146" font-size="14" text-anchor="middle" fill="#c7cae0">People · context · needs</text>
-<path d="M260 128H348" stroke="#d9927e" stroke-width="4"/><path d="M339 117l14 11-14 11" fill="none" stroke="#d9927e" stroke-width="4"/>
-<rect x="357" y="76" width="243" height="104" rx="17" fill="#32264d" stroke="#b99afa" stroke-width="2"/><text x="478" y="115" font-size="22" font-weight="bold" text-anchor="middle" fill="#fff">02 / DESIGN</text><text x="478" y="143" font-size="15" text-anchor="middle" fill="#e2d7fc">Explore · prototype · test</text>
-<rect x="659" y="76" width="235" height="104" rx="17" fill="#1c344c" stroke="#7bbdf1" stroke-width="2"/><text x="777" y="115" font-size="22" font-weight="bold" text-anchor="middle" fill="#fff">03 / BUILD</text><text x="777" y="143" font-size="15" text-anchor="middle" fill="#d3eafa">Implement · integrate</text>
-<rect x="950" y="76" width="218" height="104" rx="17" fill="#3d293d" stroke="#d9927e" stroke-width="2"/><text x="1059" y="115" font-size="22" font-weight="bold" text-anchor="middle" fill="#fff">04 / IMPROVE</text><text x="1059" y="143" font-size="15" text-anchor="middle" fill="#f9dace">Measure · refine</text>
-<path d="M600 108H659M659 147H600M894 108H950M950 147H894" stroke="#b5a7df" stroke-width="3"/><path d="M649 100l10 8-10 8M610 139l-10 8 10 8M940 100l10 8-10 8M904 139l-10 8 10 8" stroke="#b5a7df" stroke-width="2.7" fill="none"/>
-<path d="M1060 183v29H481v-29" fill="none" stroke="#866fba" stroke-width="2.5" stroke-dasharray="7 7"/><path d="M472 194l9-12 9 12" stroke="#866fba" stroke-width="3" fill="none"/><text x="766" y="234" fill="#bcb4d8" font-size="14" text-anchor="middle">Feedback loops shape the next iteration</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 480" role="img" aria-labelledby="title desc">
+<title id="title">Anna's iterative design process</title><desc id="desc">Understand informs a connected iterative loop of Design, Build and Improve, with feedback returning to earlier stages.</desc>
+<rect width="1200" height="480" fill="#F5F1E9"/>
+<g font-family="'Instrument Sans','Inter',Arial,sans-serif" fill="#17283B">
+<text x="54" y="55" font-size="15" letter-spacing="3">FIELD NOTE / 02</text>
+<text x="54" y="104" font-size="39" font-weight="600" letter-spacing="-1.6">A process, not a pipeline.</text>
+<text x="55" y="142" font-size="18" fill="#697981">Research sets direction. Making reveals friction. Feedback reshapes the work.</text>
+</g>
+<path d="M140 281H360" fill="none" stroke="#B66B50" stroke-width="3"/><path d="m352 273 12 8-12 8" fill="none" stroke="#B66B50" stroke-width="3"/>
+<path d="M550 281H622M814 281H889" fill="none" stroke="#17283B" stroke-width="2.3"/>
+<path d="m615 274 10 7-10 7m267-14 10 7-10 7" fill="none" stroke="#17283B" stroke-width="2.3"/>
+<path d="M986 344C988 430 540 434 475 347" stroke="#B66B50" stroke-width="3" stroke-dasharray="8 8" fill="none"/>
+<path d="M465 356l10 -12 12 12" stroke="#B66B50" stroke-width="3" fill="none"/>
+<g font-family="'Instrument Sans','Inter',Arial,sans-serif" text-anchor="middle">
+<rect x="52" y="214" width="181" height="132" rx="7" fill="#17283B"/><text x="142" y="263" font-size="21" font-weight="650" fill="#F5F1E9">01</text><text x="142" y="302" font-size="20" fill="#F5F1E9" letter-spacing="1">UNDERSTAND</text>
+<rect x="365" y="214" width="187" height="132" rx="7" fill="white" stroke="#17283B" stroke-width="2"/><text x="459" y="263" font-size="21" font-weight="650" fill="#17283B">02</text><text x="459" y="302" font-size="20" fill="#17283B" letter-spacing="1">DESIGN</text>
+<rect x="625" y="214" width="189" height="132" rx="7" fill="white" stroke="#17283B" stroke-width="2"/><text x="719" y="263" font-size="21" font-weight="650" fill="#17283B">03</text><text x="719" y="302" font-size="20" fill="#17283B" letter-spacing="1">BUILD</text>
+<rect x="890" y="214" width="257" height="132" rx="7" fill="#B66B50"/><text x="1018" y="263" font-size="21" font-weight="650" fill="white">04</text><text x="1018" y="302" font-size="20" fill="white" letter-spacing="1">IMPROVE</text>
+<text x="719" y="448" font-size="14" fill="#B66B50" letter-spacing="2.1">ITERATE / REASSESS / REFINE</text>
+</g><path d="M570 193H1149" stroke="#17283B" stroke-width="1" opacity=".18"/>
+</svg>
