@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Anna Rivalta - UX/UI Designer and Web Developer. From complexity to clear digital experiences." />
+<img src="./assets/hero.png" width="100%" alt="Anna Rivalta - UX/UI Designer and Web Developer. From complexity to clear digital experiences." />
 
 <br />
 
-**UX/UI &nbsp; / &nbsp; WEB DEVELOPMENT &nbsp; / &nbsp; DIGITAL EXPERIENCE**
+I turn complex needs into useful digital experiences, working across UX, interface design, content structure and web implementation.
 
-[**LinkedIn ↗**](https://www.linkedin.com/in/anna-rivalta/) &nbsp;&nbsp; · &nbsp;&nbsp; [**Say hello ↗**](mailto:anna.rivalta@gmail.com)
+[**Portfolio ↗**](https://anna-rivalta-portfolio.lorileo12.chatgpt.site/) &nbsp;&nbsp; · &nbsp;&nbsp; [**LinkedIn ↗**](https://www.linkedin.com/in/anna-rivalta/) &nbsp;&nbsp; · &nbsp;&nbsp; [**Email ↗**](mailto:anna.rivalta@gmail.com)
 
 </div>
 
@@ -53,7 +53,7 @@ My work spans business-facing websites, digital touchpoints, UX, content and imp
 **Studio Il Soffio**  
 A professional-services website, with attention to content structure, navigation and implementation in WordPress and Elementor.
 
-I share what I can responsibly show. The work itself is not defined by the number of public repositories.
+
 
 ### `05 / the curious part`
 
