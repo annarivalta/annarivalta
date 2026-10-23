@@ -1,182 +1,191 @@
 <div align="center">
 
-<img src="./assets/hero.svg" alt="Hello World, I'm Anna. UX/UI Designer and Web Developer. From complexity to clear digital experiences." width="100%" />
+<img src="./assets/hero.svg" alt="Anna Rivalta - UX/UI Design × Web Development" width="100%" />
 
-<br/>
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LET'S_CONNECT-LinkedIn-8D80EE?style=for-the-badge&labelColor=141729&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna-rivalta/)
-[![Email](https://img.shields.io/badge/SAY_HELLO-Email-D9917C?style=for-the-badge&labelColor=141729&logo=gmail&logoColor=white)](mailto:anna.rivalta@dma.it)
+**`UX/UI DESIGN`** &nbsp;·&nbsp; **`WEB DEVELOPMENT`** &nbsp;·&nbsp; **`DIGITAL EXPERIENCE`**
 
-<sub>📍 Forlì-Cesena, Italy · Human-centered design meets practical development</sub>
+*From complexity to clear digital experiences.*
 
-<br/><br/>
+<a href="https://www.linkedin.com/in/anna-rivalta/"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/CONNECT-LinkedIn-8D80EE?style=for-the-badge&labelColor=161B2D&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:anna.rivalta@dma.it"><img alt="Send an email" src="https://img.shields.io/badge/SAY_HELLO-Email-D9917C?style=for-the-badge&labelColor=161B2D&logo=gmail&logoColor=white" /></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=950&color=B49AFF&center=true&vCenter=true&width=720&lines=Designing+with+empathy.;Building+with+curiosity.;Improving+through+feedback.;Making+the+complex+feel+simple." alt="Animated text introducing Anna's approach" />
+<sub>📍 Forlì-Cesena, Italy · Design-minded. Developer-curious. Human-first.</sub>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=900&color=BCA4FF&center=true&vCenter=true&width=700&lines=Designing+with+empathy.;Building+with+curiosity.;Improving+through+feedback.;Making+digital+experiences+make+sense." alt="Animated text: Anna's approach to digital design" />
 
 </div>
 
 ---
 
-### `01 / whoami`
+### `01 / $ whoami`
 
-Hi, I'm **Anna** 👋 - a **UX/UI Designer & Web Developer** working where **design, technology and digital communication** meet.
+Hey, I'm **Anna** 👋 A **UX/UI Designer & Web Developer** at the intersection of **design, technology and digital communication**.
 
-I turn complex needs into digital experiences that are **clear, useful and thoughtfully built**. I care about understanding people, organizing information, designing interfaces, implementing websites and improving what happens after launch.
+I work across the full digital journey: understanding needs, structuring content, designing intuitive interfaces, building and refining websites, then learning from how people actually use them.
 
-My background also includes **digital marketing, B2B projects, content strategy, SEO and HubSpot**. To me, good design is not simply how a screen looks: it is how the whole experience works.
+My experience also connects **B2B digital projects, HubSpot, CMS platforms, SEO, content and UX analysis**. For me, good design doesn't end when a screen looks right. It has to **work in the real world**.
 
-```js
+```javascript
 const anna = {
-  role: ['UX/UI Design', 'Web Development', 'Digital Experience'],
+  focus: ['UX/UI', 'Web development', 'Digital experiences'],
   approach: 'understand → design ↔ build ↔ improve',
-  mindset: ['curiosity', 'clarity', 'human-centered thinking'],
-  sideQuests: ['anime', 'board games', 'creative making'],
-  portfolio: 'work in progress'
+  caresAbout: ['people', 'clarity', 'craft', 'continuous improvement'],
+  currently: 'building my portfolio',
+  sideQuests: ['anime', 'board games', 'creative experiments']
 };
 ```
 
-### `02 / the_way_i_work`
+### `02 / $ how-i-work`
 
 <div align="center">
-  <img src="./assets/process.svg" width="100%" alt="Understand starts a continuously iterative process involving design, build and improve." />
+<img src="./assets/process.svg" alt="Understand leads to an iterative loop between design, build and improve" width="100%" />
 </div>
 
-**I don't believe in design that stops at the handoff.** Research informs decisions; implementation tests them; real feedback shapes the next iteration.
+> **Design is a conversation with reality, not a handoff.** Research informs decisions. Development puts ideas to the test. Feedback makes the next version better.
 
-### `03 / creative_stack`
+### `03 / $ creative-stack`
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-**🎨 Design & UX**
+**🎨 UX & interface design**
 
 ![Figma](https://img.shields.io/badge/Figma-20253D?style=flat-square&logo=figma&logoColor=F24E1E)
-![UX/UI](https://img.shields.io/badge/UX%2FUI-20253D?style=flat-square&labelColor=20253D)
-![Wireframes](https://img.shields.io/badge/Wireframing-20253D?style=flat-square)
+![UX/UI](https://img.shields.io/badge/UX%2FUI-20253D?style=flat-square)
+![Wireframing](https://img.shields.io/badge/Wireframing-20253D?style=flat-square)
 ![Prototyping](https://img.shields.io/badge/Prototyping-20253D?style=flat-square)
-![Information architecture](https://img.shields.io/badge/Information_Architecture-20253D?style=flat-square)
+![Information Architecture](https://img.shields.io/badge/Information_Architecture-20253D?style=flat-square)
 
-</td><td valign="top" width="50%">
+</td>
+<td valign="top" width="50%">
 
-**💻 Web & CMS**
+**💻 Web & implementation**
 
 ![HTML5](https://img.shields.io/badge/HTML5-20253D?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS-20253D?style=flat-square&logo=css&logoColor=78BDFC)
-![WordPress](https://img.shields.io/badge/WordPress-20253D?style=flat-square&logo=wordpress&logoColor=5FB0E5)
+![CSS](https://img.shields.io/badge/CSS-20253D?style=flat-square&logo=css&logoColor=69B8F7)
+![WordPress](https://img.shields.io/badge/WordPress-20253D?style=flat-square&logo=wordpress&logoColor=65A8D9)
 ![Elementor](https://img.shields.io/badge/Elementor-20253D?style=flat-square&logo=elementor&logoColor=FF77BC)
 ![GitHub](https://img.shields.io/badge/GitHub-20253D?style=flat-square&logo=github&logoColor=white)
 
 </td>
-</tr><tr><td valign="top" width="50%">
+</tr>
+<tr>
+<td valign="top" width="50%">
 
-**🧩 Digital experience & marketing**
+**🧩 CMS, marketing & content**
 
 ![HubSpot](https://img.shields.io/badge/HubSpot-20253D?style=flat-square&logo=hubspot&logoColor=FF7A59)
 ![SEO](https://img.shields.io/badge/SEO-20253D?style=flat-square)
-![Content strategy](https://img.shields.io/badge/Content_Strategy-20253D?style=flat-square)
-![Digital communication](https://img.shields.io/badge/Digital_Communication-20253D?style=flat-square)
+![Content Strategy](https://img.shields.io/badge/Content_Strategy-20253D?style=flat-square)
+![Digital Communication](https://img.shields.io/badge/Digital_Communication-20253D?style=flat-square)
 
-</td><td valign="top" width="50%">
+</td>
+<td valign="top" width="50%">
 
-**🔍 Improve & optimize**
+**🔍 Measure & improve**
 
-![UX analysis](https://img.shields.io/badge/UX_Analysis-20253D?style=flat-square)
+![UX Analysis](https://img.shields.io/badge/UX_Analysis-20253D?style=flat-square)
 ![Microsoft Clarity](https://img.shields.io/badge/Microsoft_Clarity-20253D?style=flat-square)
 ![Hotjar](https://img.shields.io/badge/Hotjar-20253D?style=flat-square)
-![Continuous improvement](https://img.shields.io/badge/Continuous_Improvement-20253D?style=flat-square)
+![Continuous Improvement](https://img.shields.io/badge/Continuous_Improvement-20253D?style=flat-square)
 
-</td></tr>
+</td>
+</tr>
 </table>
 
-<sub>These are tools and areas of practice, not proficiency ratings or certifications.</sub>
+<sub>Tools and areas I work with, not made-up skill scores or certifications.</sub>
 
-### `04 / selected_work`
+### `04 / $ selected-work`
 
 <table>
-<tr><td valign="top" width="50%">
+<tr>
+<td width="50%" valign="top">
 
 #### 🌿 Studio Il Soffio
 
-**Professional-services website** · WordPress · Elementor · Content structure
+**Professional-services website**  
+`WordPress` `Elementor` `Content structure`
 
-A website designed to make services, professionals and useful information easier to discover and navigate. Work spanning information structure, implementation and content refinement.
+Design and implementation work focused on making information about professionals, services and resources easier to explore. Work across page structure, site building and content refinement.
 
-<sub>Real project · full case study being prepared</sub>
+<sub>Real project · case study in preparation</sub>
 
-</td><td valign="top" width="50%">
+</td>
+<td width="50%" valign="top">
 
-#### 🧩 B2B digital experiences
+#### 🧩 Digital B2B experiences
 
-**Web · UX · HubSpot · Digital communication**
+**Business websites & digital touchpoints**  
+`UX/UI` `HubSpot` `Web` `Communication`
 
-Experience working across business objectives, content and digital touchpoints, balancing usability, implementation and communication needs.
+Experience connecting business needs with digital journeys, content, usability and implementation. Some project details are not public.
 
-<sub>Professional work · selected details not publicly shared</sub>
+<sub>Professional experience · selective disclosure</sub>
 
-</td></tr>
+</td>
+</tr>
 </table>
 
 <details>
-<summary><b>✨ What makes a project worth sharing?</b></summary>
-<br/>
+<summary><b>🔎 What will my case studies show?</b></summary>
+<br>
 
-Not just the polished final screen. I want to show the **problem**, the **constraints**, the **decisions**, what was **actually built**, and what I **learned or improved** along the way.
+Not only finished screens: the **problem**, the **constraints**, how I **made decisions**, what was **implemented**, and what changed after testing and feedback.
 
-My portfolio and full case studies are currently in preparation.
+My personal portfolio is currently **in progress** - there is no live portfolio link yet.
 
 </details>
 
-### `05 / github_activity`
+### `05 / $ github-activity`
 
 <div align="center">
 
-<a href="https://github.com/annarivalta">
-  <img src="https://github-readme-stats.vercel.app/api?username=annarivalta&show_icons=true&hide_border=true&bg_color=0D1117&title_color=B49AFF&text_color=C7C5DB&icon_color=D9917C" alt="Anna's public GitHub statistics" height="170" />
-</a>
-<a href="https://github.com/annarivalta?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annarivalta&layout=compact&hide_border=true&bg_color=0D1117&title_color=B49AFF&text_color=C7C5DB" alt="Languages detected in Anna's public repositories" height="170" />
-</a>
+<a href="https://github.com/annarivalta"><img height="165" src="https://github-readme-stats.vercel.app/api?username=annarivalta&show_icons=true&hide_border=true&bg_color=0D1117&title_color=BCA4FF&text_color=C7C5DB&icon_color=D9917C" alt="Anna's GitHub public statistics" /></a>
+<a href="https://github.com/annarivalta?tab=repositories"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annarivalta&layout=compact&hide_border=true&bg_color=0D1117&title_color=BCA4FF&text_color=C7C5DB" alt="Languages detected in Anna's public repositories" /></a>
 
 </div>
 
-<sub>GitHub activity captures only part of my work. Research, UX, content, CMS work and client projects aren't always represented in public commits. Third-party statistic images may occasionally be unavailable.</sub>
+<sub>Public repositories show only part of my work: UX, content, CMS and client projects don't always appear as public commits. Third-party statistic cards may occasionally be unavailable.</sub>
 
-
-### `06 / contribution_snake` 🐍
+### `06 / $ snake --contributions` 🐍
 
 <div align="center">
 
-**A little pixel-powered tour through my contributions.**
+**A tiny pixel-powered journey through my contribution graph.**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/annarivalta/annarivalta/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/annarivalta/annarivalta/output/github-snake.svg" />
-  <img alt="Animated snake exploring Anna Rivalta's GitHub contributions" src="https://raw.githubusercontent.com/annarivalta/annarivalta/output/github-snake.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/annarivalta/annarivalta/output/github-snake-dark.svg" alt="Animated purple snake moving through Anna's GitHub contribution graph" width="100%" />
 </picture>
 
-<sub>Generated from my GitHub contribution graph · refreshed daily via GitHub Actions.</sub>
+<sub>Purple snake · generated by GitHub Actions · daily refresh</sub>
 
 </div>
 
-### `07 / side_quests`
+### `07 / $ side-quests`
 
 <details>
-<summary><b>👾 Open the nerd corner</b></summary>
-<br/>
+<summary><b>👾 Unlock the nerd corner</b></summary>
+<br>
 
-```txt
-> anna --side-quests
+```text
+> ./anna --side-quests
 
-[██████████] anime & storytelling
+[██████████] anime & imaginary worlds
 [██████████] board games & playful systems
 [████████░░] creative experiments
-[██████████] making things just because
+[██████████] curiosity-driven side projects
 
-achievement unlocked: curiosity never expires ✨
+achievement unlocked: never stop being curious ✨
 ```
 
-Design systems by day, fictional worlds and board games whenever possible.
+Sometimes the best ideas come from stepping away from the screen.
 
 </details>
 
@@ -186,6 +195,6 @@ Design systems by day, fictional worlds and board games whenever possible.
 
 **Designing with empathy. Building with curiosity. Improving with purpose.**
 
-<sub>Thanks for visiting this little corner of the internet. 💜</sub>
+<sub>Thanks for exploring this little corner of the internet. 💜</sub>
 
 </div>
