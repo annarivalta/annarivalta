@@ -80,23 +80,15 @@ $ ./side_quests.sh
 exit 0  # fun is a feature
 ```
 
-</details>
-
 <details>
-<summary><b>▸ View contribution snake 🐍</b></summary>
+  <summary>🐍 View contribution snake</summary>
 
-<br>
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/annarivalta/annarivalta/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/annarivalta/annarivalta/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/annarivalta/annarivalta/output/github-snake.svg" alt="Animated GitHub contributions snake in Anna Rivalta's brand colors" width="100%" />
-</picture>
-</div>
-
-<sub>Generated daily by GitHub Actions · terracotta snake, two theme-aware palettes</sub>
-
+  <br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/annarivalta/annarivalta/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/annarivalta/annarivalta/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/annarivalta/annarivalta/output/github-snake.svg" alt="Anna's GitHub contribution snake" width="100%" />
+  </picture>
 </details>
 
 ---
