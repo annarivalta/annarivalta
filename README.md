@@ -142,7 +142,24 @@ My portfolio and full case studies are currently in preparation.
 
 <sub>GitHub activity captures only part of my work. Research, UX, content, CMS work and client projects aren't always represented in public commits. Third-party statistic images may occasionally be unavailable.</sub>
 
-### `06 / side_quests`
+
+### `06 / contribution_snake` 🐍
+
+<div align="center">
+
+**A little pixel-powered tour through my contributions.**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/annarivalta/annarivalta/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/annarivalta/annarivalta/output/github-snake.svg" />
+  <img alt="Animated snake exploring Anna Rivalta's GitHub contributions" src="https://raw.githubusercontent.com/annarivalta/annarivalta/output/github-snake.svg" width="100%" />
+</picture>
+
+<sub>Generated from my GitHub contribution graph · refreshed daily via GitHub Actions.</sub>
+
+</div>
+
+### `07 / side_quests`
 
 <details>
 <summary><b>👾 Open the nerd corner</b></summary>
