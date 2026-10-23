@@ -1,0 +1,10 @@
+# Installazione del profilo GitHub di Anna
+
+1. Apri https://github.com/annarivalta/annarivalta e conserva una copia del README attuale.
+2. Aggiorna il file `README.md` **nella radice del repository** (non `assets/README.md`) con quello incluso.
+3. Carica `hero.svg` e `process.svg` dentro `assets/` (sovrascrivi solo i file grafici omonimi).
+4. Carica `snake.yml` nel percorso **`.github/workflows/snake.yml`**. La cartella `workflows/` da sola non attiva GitHub Actions.
+5. Vai in Actions > Generate Snake Animation > Run workflow. Verifica che l'esecuzione termini correttamente e che nel branch `output` siano presenti `github-snake.svg` e `github-snake-dark.svg`.
+6. Apri https://github.com/annarivalta e ricarica la pagina. Il serpente appare soltanto dopo la generazione riuscita dei file SVG.
+
+Note: non è presente un pulsante portfolio perché il portfolio non è ancora pubblico. Le statistiche e il typing effect dipendono da servizi esterni. I README GitHub non eseguono JavaScript arbitrario.
