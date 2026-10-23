@@ -1,0 +1,12 @@
+# Anna Rivalta / README design notes
+
+## Concept: The field notes of a digital designer
+
+Not a badge board, not a fake product dashboard. The hero is a typographic cover; the second visual is a legible systems diagram. The written narrative tells the reader who Anna is, how she works and how to contact her before unfolding optional personality details.
+
+- Base colors: navy `#17283B`, ivory `#F5F1E9`, terracotta `#B66B50`.
+- Motion: no autoplay in the two SVGs. Existing contribution snake is optional and collapsed.
+- Fonts: SVGs specify **Instrument Sans** with fallbacks; GitHub cannot guarantee a custom font is loaded and the exact proprietary font is **not** bundled. To ensure exact shapes, install Instrument Sans/Serif locally and convert text to paths using Inkscape or another vector editor. The README's native text uses GitHub's default font.
+- Accessibility: descriptive image alt text, readable semantic text outside images, restrained contrast, no fake interactions.
+- Deployment: copy `README.md` plus `assets/hero.svg` and `assets/process.svg` to the `annarivalta/annarivalta` repository. Preserve the GitHub Action and `output` branch if using the snake.
+- SVG assets are fully editable and responsive by viewBox. For reliable exact-font rendering, replace text with outlined typography; do not upload font files to a public repository by default.
