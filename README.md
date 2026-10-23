@@ -6,7 +6,7 @@
 
 **Designing with empathy. Building with curiosity. Improving with purpose.**
 
-[**PORTFOLIO ↗**](https://anna-rivalta-portfolio.lorileo12.chatgpt.site/) &nbsp; · &nbsp; [**LINKEDIN ↗**](https://www.linkedin.com/in/anna-rivalta/) &nbsp; · &nbsp; [**SAY HELLO ↗**](mailto:anna.rivalta@gmail.com)
+[**LINKEDIN ↗**](https://www.linkedin.com/in/anna-rivalta/) &nbsp; · &nbsp; [**SAY HELLO ↗**](mailto:anna.rivalta@gmail.com)
 
 <sub>📍 Forlì-Cesena, Italy &nbsp; / &nbsp; UX/UI Design × Web Design & Development</sub>
 
