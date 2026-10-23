@@ -1,21 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 480" role="img" aria-labelledby="title desc">
-<title id="title">Anna's iterative design process</title><desc id="desc">Understand informs a connected iterative loop of Design, Build and Improve, with feedback returning to earlier stages.</desc>
-<rect width="1200" height="480" fill="#F5F1E9"/>
-<g font-family="'Instrument Sans','Inter',Arial,sans-serif" fill="#17283B">
-<text x="54" y="55" font-size="15" letter-spacing="3">FIELD NOTE / 02</text>
-<text x="54" y="104" font-size="39" font-weight="600" letter-spacing="-1.6">A process, not a pipeline.</text>
-<text x="55" y="142" font-size="18" fill="#697981">Research sets direction. Making reveals friction. Feedback reshapes the work.</text>
-</g>
-<path d="M140 281H360" fill="none" stroke="#B66B50" stroke-width="3"/><path d="m352 273 12 8-12 8" fill="none" stroke="#B66B50" stroke-width="3"/>
-<path d="M550 281H622M814 281H889" fill="none" stroke="#17283B" stroke-width="2.3"/>
-<path d="m615 274 10 7-10 7m267-14 10 7-10 7" fill="none" stroke="#17283B" stroke-width="2.3"/>
-<path d="M986 344C988 430 540 434 475 347" stroke="#B66B50" stroke-width="3" stroke-dasharray="8 8" fill="none"/>
-<path d="M465 356l10 -12 12 12" stroke="#B66B50" stroke-width="3" fill="none"/>
-<g font-family="'Instrument Sans','Inter',Arial,sans-serif" text-anchor="middle">
-<rect x="52" y="214" width="181" height="132" rx="7" fill="#17283B"/><text x="142" y="263" font-size="21" font-weight="650" fill="#F5F1E9">01</text><text x="142" y="302" font-size="20" fill="#F5F1E9" letter-spacing="1">UNDERSTAND</text>
-<rect x="365" y="214" width="187" height="132" rx="7" fill="white" stroke="#17283B" stroke-width="2"/><text x="459" y="263" font-size="21" font-weight="650" fill="#17283B">02</text><text x="459" y="302" font-size="20" fill="#17283B" letter-spacing="1">DESIGN</text>
-<rect x="625" y="214" width="189" height="132" rx="7" fill="white" stroke="#17283B" stroke-width="2"/><text x="719" y="263" font-size="21" font-weight="650" fill="#17283B">03</text><text x="719" y="302" font-size="20" fill="#17283B" letter-spacing="1">BUILD</text>
-<rect x="890" y="214" width="257" height="132" rx="7" fill="#B66B50"/><text x="1018" y="263" font-size="21" font-weight="650" fill="white">04</text><text x="1018" y="302" font-size="20" fill="white" letter-spacing="1">IMPROVE</text>
-<text x="719" y="448" font-size="14" fill="#B66B50" letter-spacing="2.1">ITERATE / REASSESS / REFINE</text>
-</g><path d="M570 193H1149" stroke="#17283B" stroke-width="1" opacity=".18"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 355" role="img" aria-label="Understand informs an iterative design-build-improve feedback loop">
+<defs><pattern id="grid" width="25" height="25" patternUnits="userSpaceOnUse"><path d="M25 0H0V25" fill="none" stroke="#223047" stroke-width=".6"/></pattern><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#BBA5F5"/></marker></defs>
+<rect width="1200" height="355" rx="15" fill="#0B101B"/><rect x="1" y="1" width="1198" height="353" rx="15" fill="url(#grid)" stroke="#354359"/>
+<text x="34" y="46" fill="#E58B6D" font-family="DejaVu Sans Mono, monospace" font-size="14" letter-spacing="1">02 / THE ITERATION ENGINE</text><text x="1165" y="46" fill="#8C9AAF" text-anchor="end" font-family="DejaVu Sans Mono, monospace" font-size="12">SYSTEM MAP v1.0</text>
+<rect x="46" y="113" width="230" height="115" rx="11" fill="#182338" stroke="#E58B6D" stroke-width="1.4"/><text x="65" y="142" fill="#E58B6D" font-family="DejaVu Sans Mono, monospace" font-size="11">INPUT / 00</text><text x="65" y="182" fill="#F5F0E8" font-size="25" font-family="Liberation Sans, sans-serif" font-weight="bold">Understand</text><text x="65" y="207" fill="#8C9AAF" font-size="12" font-family="DejaVu Sans Mono, monospace">people · goals · constraints</text>
+<path d="M278 169H372" stroke="#E58B6D" stroke-width="2"/><path d="M361 161L373 169L361 177" fill="none" stroke="#E58B6D" stroke-width="2"/>
+<rect x="390" y="113" width="205" height="115" rx="11" fill="#182338" stroke="#566582"/><text x="408" y="142" fill="#BBA5F5" font-family="DejaVu Sans Mono, monospace" font-size="11">ITERATION / 01</text><text x="408" y="182" fill="#F5F0E8" font-size="26" font-family="Liberation Sans, sans-serif" font-weight="bold">Design</text><text x="408" y="207" fill="#8C9AAF" font-size="12" font-family="DejaVu Sans Mono, monospace">structure · prototypes</text>
+<path d="M598 169H650" stroke="#BBA5F5" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="665" y="113" width="205" height="115" rx="11" fill="#182338" stroke="#566582"/><text x="683" y="142" fill="#BBA5F5" font-family="DejaVu Sans Mono, monospace" font-size="11">ITERATION / 02</text><text x="683" y="182" fill="#F5F0E8" font-size="26" font-family="Liberation Sans, sans-serif" font-weight="bold">Build</text><text x="683" y="207" fill="#8C9AAF" font-size="12" font-family="DejaVu Sans Mono, monospace">ship · implement</text>
+<path d="M873 169H925" stroke="#BBA5F5" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="940" y="113" width="215" height="115" rx="11" fill="#182338" stroke="#566582"/><text x="957" y="142" fill="#BBA5F5" font-family="DejaVu Sans Mono, monospace" font-size="11">ITERATION / 03</text><text x="957" y="182" fill="#F5F0E8" font-size="26" font-family="Liberation Sans, sans-serif" font-weight="bold">Improve</text><text x="957" y="207" fill="#8C9AAF" font-size="12" font-family="DejaVu Sans Mono, monospace">observe · refine</text>
+<path d="M1046 230V275Q1046 287 1030 287H502Q492 287 492 275V230" fill="none" stroke="#BBA5F5" stroke-width="2" stroke-dasharray="7 6" marker-end="url(#arrow)"/><rect x="640" y="271" width="250" height="27" rx="8" fill="#0B101B"/><text x="765" y="289" text-anchor="middle" fill="#BBA5F5" font-size="12" font-family="DejaVu Sans Mono, monospace">feedback → next version</text>
+<text x="46" y="322" fill="#8C9AAF" font-size="12" font-family="DejaVu Sans Mono, monospace">NOT A WATERFALL. A WORKING LOOP.</text>
 </svg>
