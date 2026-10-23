@@ -1,92 +1,90 @@
 <div align="center">
 
-<img src="./assets/hero.png" width="100%" alt="Anna Rivalta - UX/UI Designer and Web Developer. From complexity to clear digital experiences." />
+<img src="./assets/hero.png" alt="Anna Rivalta - UX/UI Designer and Web Developer. A dark editorial design inspired by a code editor." width="100%" />
 
 <br />
 
-I turn complex needs into useful digital experiences, working across UX, interface design, content structure and web implementation.
+**I turn complex needs into useful digital experiences, from the first question to the working interface.**
 
-[**Portfolio ↗**](https://anna-rivalta-portfolio.lorileo12.chatgpt.site/) &nbsp;&nbsp; · &nbsp;&nbsp; [**LinkedIn ↗**](https://www.linkedin.com/in/anna-rivalta/) &nbsp;&nbsp; · &nbsp;&nbsp; [**Email ↗**](mailto:anna.rivalta@gmail.com)
+[**PORTFOLIO ↗**](https://anna-rivalta-portfolio.lorileo12.chatgpt.site/) &nbsp; · &nbsp; [**LINKEDIN ↗**](https://www.linkedin.com/in/anna-rivalta/) &nbsp; · &nbsp; [**EMAIL ↗**](mailto:anna.rivalta@gmail.com)
 
 </div>
 
 ---
 
-### `01 / hello, I'm Anna`
+### `01 / whoami`
 
-I'm a **UX/UI designer and web developer** working where **structure, interface and implementation** meet.
+Hey, I'm **Anna**. I work across **UX/UI design, web development and digital communication**, connecting the messy early questions to interfaces people can actually use.
 
-I translate complex requirements into clearer digital experiences: understanding people and business constraints, designing useful interactions, building with CMS and web technologies, then revisiting what can work better.
+I like understanding the *why* before getting lost in the *how*. Then I design, implement, test assumptions and iterate. The goal isn't another polished screen. It's **less friction, more clarity**.
 
-**My perspective:** a good interface is not the deliverable. A better experience is.
-
-```js
-const wayOfWorking = {
-  startWith: 'understand the problem',
-  moveBetween: ['design', 'build', 'improve'],
-  optimizeFor: ['clarity', 'usability', 'real-world constraints'],
-  always: 'stay curious'
-};
+```ts
+const anna = {
+  role: ['UX/UI designer', 'web developer'],
+  from: 'Forlì-Cesena, Italy',
+  approach: ['understand', 'design', 'build', 'improve'],
+  values: ['clarity', 'empathy', 'craft', 'curiosity'],
+  favoriteFeature: 'making complicated things feel simple',
+} as const;
 ```
 
-### `02 / thinking in systems`
+### `02 / thinking in loops`
 
-<img src="./assets/process.svg" width="100%" alt="Process diagram: Understand sets direction, while Design, Build and Improve form an iterative feedback loop." />
+<img src="./assets/process.png" alt="Understand sets direction. Design, Build and Improve form an ongoing feedback loop." width="100%" />
 
-Research brings the first questions into focus. Implementation exposes the next ones. I move between **design, building and improvement** rather than treating them as separate handoffs.
+I don't see design as a one-way handoff. **Research guides the first iteration; building and observing inform the next.** Constraints aren't an afterthought. They're part of designing well.
 
-### `03 / areas of practice`
+### `03 / toolkit, not trophies`
 
-| 01 / Shape the experience | 02 / Make it real |
-| :--- | :--- |
-| UX/UI design, information architecture, wireframes, prototypes, Figma | HTML, CSS, WordPress, Elementor, CMS implementation |
-| **03 / Connect the dots** | **04 / Learn and refine** |
-| Digital communication, B2B journeys, HubSpot, content, SEO | UX analysis, Microsoft Clarity, Hotjar, iterative improvement |
+| Make sense of it | Make it work |
+| :-- | :-- |
+| **UX & product thinking**<br>Information architecture · Wireframes · Prototyping · Figma | **Web & implementation**<br>HTML · CSS · WordPress · Elementor · CMS |
+| **Connect the dots**<br>Content structure · SEO · Digital communication · HubSpot | **Learn & improve**<br>UX analysis · Microsoft Clarity · Hotjar · Iteration |
 
-<sub>These are areas and tools I work with, not proficiency scores.</sub>
+<sub>Actual areas I work with, not invented proficiency percentages.</sub>
 
-### `04 / work in context`
-
-**Professional digital experiences**  
-My work spans business-facing websites, digital touchpoints, UX, content and implementation. Some professional projects and technical details are not public.
+### `04 / built in the real world`
 
 **Studio Il Soffio**  
-A professional-services website, with attention to content structure, navigation and implementation in WordPress and Elementor.
+Professional-services website · WordPress / Elementor / information architecture. Work across content structure, navigation and implementation.
 
+**B2B digital experiences**  
+Business-facing digital projects connecting user needs, communication, CMS work and web delivery. Some client and technical work stays private.
 
+No fake pinned projects. No inflated public code metrics. **The work is real even when the repository isn't public.**
 
-### `05 / the curious part`
+### `05 / easter eggs`
 
 <details>
-<summary><b>Open the side-quest drawer ↗</b></summary>
+<summary><b>▸ Run side_quests.sh</b></summary>
 
 <br />
 
-```text
-ANNA / OUTSIDE THE PIXELS
+```shell
+$ ./side_quests.sh
 
-[01] Anime & imaginary worlds
-[02] Board games & playful systems
-[03] Making things with my hands
-[04] Creative experiments, just because
+[✓] exploring anime worlds
+[✓] reverse-engineering board game rules
+[✓] making things with my hands
+[✓] getting curious about another idea
 
-STATUS: curiosity is a feature, not a bug.
+exit code: 0  # fun is a feature
 ```
-
-I like systems, stories and playful problems - both on and away from the screen.
 
 </details>
 
 <details>
-<summary><b>A tiny GitHub Easter egg: the contribution snake ↗</b></summary>
+<summary><b>▸ View contribution snake</b></summary>
 
 <br />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/annarivalta/annarivalta/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/annarivalta/annarivalta/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/annarivalta/annarivalta/output/github-snake-dark.svg" width="100%" alt="Contribution graph snake animation" />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/annarivalta/annarivalta/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/annarivalta/annarivalta/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/annarivalta/annarivalta/output/github-snake-dark.svg" alt="Contribution graph snake animation, if the existing GitHub Action is enabled" width="100%" />
+  </picture>
+</p>
 
 </details>
 
@@ -94,8 +92,8 @@ I like systems, stories and playful problems - both on and away from the screen.
 
 <div align="center">
 
-**Understand deeply. Design deliberately. Build thoughtfully. Improve continuously.**
+`DESIGN WITH EMPATHY` · `BUILD WITH CURIOSITY` · `IMPROVE WITH PURPOSE`
 
-<sub>Based in Forlì-Cesena, Italy · <a href="mailto:anna.rivalta@gmail.com">anna.rivalta@gmail.com</a></sub>
+<sub>Thanks for stopping by this corner of the internet. ✳</sub>
 
 </div>
