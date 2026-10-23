@@ -1,9 +1,8 @@
-
 name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 6 * * *"
+    - cron: '0 6 * * *'
   workflow_dispatch:
 
 permissions:
@@ -13,14 +12,15 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate purple snake
+      - name: Generate light and dark snakes
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: annarivalta
           outputs: |
-            dist/github-snake.svg?color_snake=%23A970FF&color_dots=%23161B22,%233B2868,%235F3DC4,%239B72F2,%23D5BCFF
+            dist/github-snake.svg?palette=github-light&color_snake=%23B65226&color_dots=%23FCF6ED,%23E7D8E6,%23C5A7D7,%238A65B2,%23513471
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=%23D9917C&color_dots=%230D1117,%2327253A,%2349346E,%238060B1,%23C29BEA
 
-      - name: Publish animation
+      - name: Publish animations to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
