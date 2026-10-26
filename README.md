@@ -53,11 +53,6 @@ const anna = {
 
 ### `04 / $ selected-work`
 
-**🌿 Studio Il Soffio**  
-`Website` · `WordPress` · `Elementor` · `Content structure`
-
-Information structure, navigation, website implementation and content refinement for a professional-services website.
-
 **🧩 B2B digital experiences**  
 `UX/UI` · `HubSpot` · `CMS` · `Web` · `Digital communication`
 
