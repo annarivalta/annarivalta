@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Generate light and dark snakes
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk/svg-only@v3.2.0
         with:
           github_user_name: annarivalta
           outputs: |
